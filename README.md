@@ -40,7 +40,6 @@ Year-over-year and quarter-over-quarter performance.
 
 - **Power BI:** Data visualization and reporting.
 - **DAX:** Measures and calculated columns for advanced insights.
-- **Data Sources:** [mobile sales data.CSV]
 
 # 📊 Dashboard Insights
 
@@ -55,6 +54,8 @@ Majority of transactions occur via UPI (26%) and Credit Cards (25%).
 
 # 🖼️ Screenshots
 
+<img src = "Overview page.png">
 
+<img src = "MTD Report Page.png">
 
-
+<img src = "Same Period Last Year Page.png">
